@@ -19,7 +19,7 @@ int main(){
 
     for(int i=1; i<=numero_N; i++){
 
-        if (numero_N%i == 0){
+        if (numero_N % i == 0){
             cout << i << endl;
         }
     }
